@@ -1,2 +1,2 @@
-!should be the type of each element in the ApiData.Course array. Make sure it matches the actual type of the elements in the array.
- Agar addVariablesForColors aapka custom function hai jo aap apne CSS mein istemal karna chahte hain
+Kabita, ek prakar ki kavita hoti hai jo aksar sundar bhasha aur chhandon mein likhi jati hai..
+Kabitaon mein aksar kisi vishesh vishay par bhavuk bhavnaon ko vyakt kiya jata hai.
