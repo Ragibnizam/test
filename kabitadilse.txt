@@ -1,4 +1,5 @@
-Kabita, ek prakar ki kavita hoti hai jo aksar sundar bhasha aur chhandon mein likhi jati hai..
+
 Kabitaon mein aksar kisi vishesh vishay par bhavuk bhavnaon ko vyakt kiya jata hai.iablesForColors aapka custom function hai jo aap apne CSS mein istemal karna chahte hain
 vishay kuch bhi ho sakta hai, jaise prakriti, prem, samajik mudde, rajneeti, ya kisi bhi vyaktigat anubhav.
 Kabita ek madhyam hai jisse lekhak apne vichar, bhavnaon, ya anubhavon ko vyakt kar sakta hai. Kavita mein shabdon ka prayog saundaryapurna bhasha mein kiya jata hai, jisse padhne wale ko anand aur anubhav hota hai.
+
